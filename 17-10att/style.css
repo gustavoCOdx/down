@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'sans-serif';
+    align-items: center;
+}
+
+.cabecalho1{
+    left: 660px;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: orange;
+    color: white;
+}
+
+
+
+.simbolos img{
+    width: 10px;
+    top: 10px;
+}
+   
+
+.imagens{
+    gap: 5px;
+    background-color: orange;
+}
+.imagens img{
+    
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+}
+
